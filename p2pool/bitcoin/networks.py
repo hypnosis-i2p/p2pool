@@ -356,9 +356,9 @@ nets = dict(
         BLOCK_PERIOD=40, # s
         SYMBOL='POT',
         CONF_FILE_FUNC=lambda: os.path.join(os.path.join(os.environ['APPDATA'], 'potcoin') if platform.system() == 'Windows' else os.path.expanduser('~/Library/Application Support/potcoin/') if platform.system() == 'Darwin' else os.path.expanduser('~/.potcoin'), 'potcoin.conf'),
-        BLOCK_EXPLORER_URL_PREFIX='http://potchain.potcoin.info/block/',
-        ADDRESS_EXPLORER_URL_PREFIX='http://potchain.potcoin.info/address/',
-        TX_EXPLORER_URL_PREFIX='http://potchain.potcoin.info/transaction/',
+        BLOCK_EXPLORER_URL_PREFIX='http://potchain.net/block/',
+        ADDRESS_EXPLORER_URL_PREFIX='http://potchain.net/address/',
+        TX_EXPLORER_URL_PREFIX='http://potchain.net/transaction/',
         SANE_TARGET_RANGE=(2**256//1000000000 - 1, 2**256//1000 - 1),
         DUMB_SCRYPT_DIFF=2**16,
         DUST_THRESHOLD=0.03e8,
