@@ -312,9 +312,9 @@ nets = dict(
         BLOCK_PERIOD=40, # s targetspacing
         SYMBOL='GLC',
         CONF_FILE_FUNC=lambda: os.path.join(os.path.join(os.environ['APPDATA'], 'globalcoin') if platform.system() == 'Windows' else os.path.expanduser('~/Library/Application Support/globalcoin/') if platform.system() == 'Darwin' else os.path.expanduser('~/.globalcoin'), 'globalcoin.conf'),
-        BLOCK_EXPLORER_URL_PREFIX='http://blockchainx.com/block/',
-        ADDRESS_EXPLORER_URL_PREFIX='http://blockchainx.com/address/',
-        TX_EXPLORER_URL_PREFIX='http://blockchainx.com/tx/',
+        BLOCK_EXPLORER_URL_PREFIX='http://chainz.cryptoid.info/glc/block.dws?',
+        ADDRESS_EXPLORER_URL_PREFIX='http://chainz.cryptoid.info/glc/address.dws?',
+        TX_EXPLORER_URL_PREFIX='http://chainz.cryptoid.info/glc/tx.dws?',
         SANE_TARGET_RANGE=(2**256//1000000000 - 1, 2**256//1000 - 1),
         DUMB_SCRYPT_DIFF=2**16,
         DUST_THRESHOLD=0.03e8,
