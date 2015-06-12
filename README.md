@@ -2,18 +2,23 @@ Modified p2pool-13.4+ to run with Digitalcoin, Worldcoin, Craftcoin, Casinocoin,
 
 Donations
 -------------------------
-Bitcoin		1DJPxjc4uDeaPdRpEofNyymbudV8WdozVR
+Bitcoin		1K1773RbXRZVRQSSXe9N6N2MUFERvrdu6y
 
-Litecoin	LYhTMBGKuDksxPAFUvNXXkGkWQVmaK75oD
+Namecoin	NK1773Rzv8b4ugmCgX789PbjewA9fL9Dy1
 
-Digitalcoin	D5tWKx7njiFj8Ejr3h4ii8LRdxHJBKSZF9
+Litecoin	LKi773RBuPepQH8E6Zb1ponoCvgbU7hHmd
 
-Worldcoin	WbmHBuaAYhDn8zY9JaxRqNoWMtQjEM6Dfb
+Anoncoin	AK1773RTmRKtvbKBCrUu95UQg5iegrqyeA
 
-Craftcoin	QBFBJs6KBX2GZogVdti6Ui6Zyx81gYPuVE
+Primecoin	AK1773RTmRKtvbKBCrUu95UQg5iegrqyeA
 
-Casinocoin      CHnpgED6idR9zhevDCGs54dC3zD6o4wGT8
+Devcoin		1K1773RbXRZVRQSSXe9N6N2MUFERvrdu6y
 
+Teracoin	1K1773RbXRZVRQSSXe9N6N2MUFERvrdu6y
+
+Freicoin	1K1773RbXRZVRQSSXe9N6N2MUFERvrdu6y
+
+BBQCoin		bK1773R1APJz4yTgRkmdKQhjhiMyQpJgfN
 
 Original P2Pool README:
 -------------------------
